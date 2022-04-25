@@ -6,6 +6,19 @@
 <a href="https://leetcode.com/ajiladel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="AdelSS04" height="30" width="40" /></a>
  <a href = "mailto: ajiladel@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+  <em>
+    This is ME, <b>Adel LAJIL<b>, a <b>C#.NET Full Stack Developer</b> working on <a href="http://www.podyam.com/"> <b>Podyam INC.</b></a>. <br>
+    Familiare with  <b>C#.Net , MSSQL, Azure, MongoDB and Angular</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Done few live projects and portfolio work in above. Industrial engineer graduated on 2020 from the National Engineering School of Carthage with. &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>
+    Interested in new technology and the integration of IT tools for making the work more efficiently and looking forward to digitailaise the processus. Computer-savvy, .NET & Angular developer, SQL Server & MongoDb fans. I am interested in all areas that allow me to develop my skills and learn new technologies.
+  </em> 
+  <br>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Self-motivated, lover of innovation and everything related to generate new knowledge.Face problems with a smile and look forward to solve them.</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelss04&label=Profile%20views&color=0e75b6&style=flat" alt="adelss04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adelss04" alt="adelss04" /></a> </p>
