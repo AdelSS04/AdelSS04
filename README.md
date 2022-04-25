@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adelss04" alt="adelss04" /></a> </p>
 
+- 🔭 I’m currently working on **SnB and Podium360**
+
+- 👨‍💻 All of my projects are available at [www.adellajil.com](www.adellajil.com)
+
+- 💬 Ask me about **C#, .Net, Angular**
+
+- 📫 How to reach me **ajiladel@gmail.com**
+
+- ⚡ Fun fact **Always learning new things**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adellajil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adellajil" height="30" width="40" /></a>
