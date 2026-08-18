@@ -37,9 +37,9 @@ My strongest area is backend and cloud engineering with **C#/.NET and Azure**, w
 
 ## Selected projects
 
-### Slotafy · Full-stack SaaS product
+### [Slotafy](https://slotafy.com) · Full-stack SaaS product
 
-An independent multi-tenant restaurant platform that I designed, built, deploy, and operate. It covers public ordering, diner sessions, table management, real-time kitchen workflows, staff administration, billing, and payments.
+An independent multi-tenant restaurant platform that I designed, built, deployed, and continue to operate. It covers public ordering, diner sessions, table management, real-time kitchen workflows, staff administration, billing, and payments.
 
 - **Architecture:** .NET 10 backend with domain, application, infrastructure, and database initialization layers
 - **Frontend platform:** Angular 21 and Nx monorepo with dedicated public, diner, admin, kitchen display, and back-office applications
@@ -47,7 +47,6 @@ An independent multi-tenant restaurant platform that I designed, built, deploy, 
 - **Delivery:** Docker, Kubernetes/k3s, Helm, Argo CD, GitHub Actions, and Cloudflare
 - **What it demonstrates:** SaaS multi-tenancy, domain modeling, real-time workflows, modular frontend architecture, Stripe payments, GitOps, and end-to-end product ownership
 
-<sub>The product repository is private.</sub>
 
 ### [Spur](https://github.com/AdelSS04/Spur) · .NET error-handling toolkit
 
@@ -112,5 +111,5 @@ I'm always happy to discuss cloud architecture, .NET, Angular, Azure, DevOps, op
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdelSS04&label=Profile%20views&color=0A66C2&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AdelSS04&label=Profile+views&color=0e75b6&style=flat-square&abbreviated=true" alt="AdelSS04 profile views">
 </p>
