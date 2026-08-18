@@ -110,6 +110,3 @@ I'm always happy to discuss cloud architecture, .NET, Angular, Azure, DevOps, op
   <a href="mailto:contact@adellajil.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdelSS04&label=Profile+views&color=0e75b6&style=flat-square&abbreviated=true" alt="AdelSS04 profile views">
-</p>
